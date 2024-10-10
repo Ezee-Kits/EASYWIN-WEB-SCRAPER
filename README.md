@@ -42,7 +42,7 @@ pip install selenium beautifulsoup4 pandas
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/Easywin-Betting-Scraper.git
+   git clone https://github.com/Ezee-Kits/Easywin-Betting-Scraper.git
    ```
 
 2. **Set up ChromeDriver**:  
